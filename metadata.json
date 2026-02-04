@@ -1,0 +1,9 @@
+{
+  "name": "Game of Thrones NFT #1",
+  "description": "NFT with a scene from a TV series",
+  "image": "https://raw.githubusercontent.com/Tolmaganai/net-image/main/Game-of-Thrones-4K-HBO-Max.png.webp",
+  "attributes": [
+    {"trait_type": "Type", "value": "TV series"},
+    {"trait_type": "Title", "value": "Game of Thrones"}
+  ]
+}
